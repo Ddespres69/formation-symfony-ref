@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="201eb980-75ba-4c6c-889e-dfe9731e6d3a" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ParkBundle/Service/ComputerService.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ParkBundle/Resources/views/Computer/list.html.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ParkBundle/Resources/config/services.yml" />
-      <change type="DELETED" beforePath="C:\var\www\formation-symfony\src\ParkBundle\Resources\config\services.xml" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ParkBundle/Controller/ComputerController.php" afterPath="$PROJECT_DIR$/src/ParkBundle/Controller/ComputerController.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ParkBundle/DependencyInjection/ParkExtension.php" afterPath="$PROJECT_DIR$/src/ParkBundle/DependencyInjection/ParkExtension.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/config/routing.yml" afterPath="$PROJECT_DIR$/app/config/routing.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
     </list>
     <ignored path="formation-symfony.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -44,8 +37,8 @@
       <file leaf-file-name="ComputerController.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/ParkBundle/Controller/ComputerController.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.09792627">
-              <caret line="5" column="59" selection-start-line="5" selection-start-column="59" selection-end-line="5" selection-end-column="59" />
+            <state vertical-scroll-proportion="0.3329493">
+              <caret line="17" column="79" selection-start-line="17" selection-start-column="79" selection-end-line="17" selection-end-column="79" />
               <folding>
                 <element signature="e#41#98#0#PHP" expanded="true" />
               </folding>
@@ -672,8 +665,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ParkBundle/Controller/ComputerController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.09792627">
-          <caret line="5" column="59" selection-start-line="5" selection-start-column="59" selection-end-line="5" selection-end-column="59" />
+        <state vertical-scroll-proportion="0.3329493">
+          <caret line="17" column="79" selection-start-line="17" selection-start-column="79" selection-end-line="17" selection-end-column="79" />
           <folding>
             <element signature="e#41#98#0#PHP" expanded="true" />
           </folding>

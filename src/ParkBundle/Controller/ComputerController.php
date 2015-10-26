@@ -15,7 +15,7 @@ class ComputerController extends Controller
     public function listAction()
     {
         return $this->render('ParkBundle:Computer:list.html.twig', array(
-                'computers' => $this->get('park.computer')->getComputersList()
+                'computers' => $this->get('park.computer')->getComputersList() 
             )
         );
     }
