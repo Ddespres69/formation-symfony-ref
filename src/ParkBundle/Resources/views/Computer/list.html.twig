@@ -1,0 +1,8 @@
+<h1>Computers List</h1>
+<ul>
+{% for computer in computers  %}
+    <li>{{ computer.id }} {{ computer.name }} {{ computer.ip }} {{ computer.enabled }}</li>
+{% else %}
+    <li><em>no computer found</em></li>
+{% endfor %}
+</ul>

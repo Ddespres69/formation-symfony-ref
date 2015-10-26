@@ -3,12 +3,14 @@
 namespace ParkBundle\Controller;
 
 use Symfony\Bundle\FrameworkBundle\Controller\Controller;
+use Sensio\Bundle\FrameworkExtraBundle\Configuration\Route;
 
 class ComputerController extends Controller
 {
 
     /**
-     * @Route
+     *  @Route("/computer/list")
+     *
      */
     public function listAction()
     {
