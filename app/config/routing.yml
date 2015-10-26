@@ -1,0 +1,4 @@
+park:
+    resource: "@ParkBundle/Resources/config/routing.yml"
+    prefix:   /
+
